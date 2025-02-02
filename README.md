@@ -12,7 +12,7 @@ O sistema tem as seguintes funções implementadas:
 3) O botão A gera interrupção e incrementa o contador;
 4) O botão B gera interrupção e decrementa o contador;
 5) A matriz de LEDs (WS2812) exibe o valor do contador (de 0 a 9);
-6) Ativação do modo de gravação enviando "*" via monitor serial.
+6) Ativação do modo de gravação enviando "#" via monitor serial.
 
 ## Instrução de Uso
 
