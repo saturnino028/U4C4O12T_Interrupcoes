@@ -34,7 +34,7 @@ int main()
     while(1)
     {    
         int c = getchar_timeout_us(1000); //Fazer leitura da serial
-        if(c == '*')
+        if(c == '#')
             entrar_modo_gravacao();
         if(botao_flag)
         {
