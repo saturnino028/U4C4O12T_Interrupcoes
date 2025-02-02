@@ -12,7 +12,7 @@ O sistema tem as seguintes funções implementadas:
 3) O botão A gera interrupção e incrementa o contador;
 4) O botão B gera interrupção e decrementa o contador;
 5) A matriz de LEDs (WS2812) exibe o valor do contador (de 0 a 9);
-6) Ativação do modo de gravação enviando "*" via monitor serial.
+6) Ativação do modo de gravação enviando "#" via monitor serial.
 
 ## Instrução de Uso
 
@@ -25,8 +25,7 @@ Para utilizar o programa com o kit de desenvolvimento BitDogLab, o usuário deve
 
 ## Demonstração
 
-<!-- TODO: adicionar link do vídeo -->
-Vídeo demonstrando as funcionalidades da solução implementada: [Vídeo](url).
+Vídeo demonstrando as funcionalidades da solução implementada: [Vídeo](https://youtu.be/Ep0sseX6uZc).
 
 ## Atenção
 
