@@ -25,8 +25,7 @@ Para utilizar o programa com o kit de desenvolvimento BitDogLab, o usuário deve
 
 ## Demonstração
 
-<!-- TODO: adicionar link do vídeo -->
-Vídeo demonstrando as funcionalidades da solução implementada: [Vídeo](url).
+Vídeo demonstrando as funcionalidades da solução implementada: [Vídeo](https://youtu.be/Ep0sseX6uZc).
 
 ## Atenção
 
